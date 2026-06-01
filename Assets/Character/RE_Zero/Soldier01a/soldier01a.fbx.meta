@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 962cfda754f4cfd42a25874ea2fe284b
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -4467364184010390094
+    second: soldier01a_stun
+  - first:
+      74: 7775501771137214660
+    second: soldier01a_idle
+  - first:
+      74: -5866966647552672225
+    second: soldier01a_down
+  - first:
+      74: 6658113486925820127
+    second: soldier01a_downhurt
+  - first:
+      74: -8056924519805307850
+    second: soldier01a_downidle
+  - first:
+      74: 6878467010177793587
+    second: soldier01a_skill1_attack
+  - first:
+      74: -3061027017062569362
+    second: soldier01a_skill1_move
+  - first:
+      74: -1888276289999715464
+    second: soldier01a_skill1_start
+  - first:
+      74: 9071223701910514989
+    second: soldier01a_skill2_attack
+  - first:
+      74: -3916535130697942590
+    second: soldier01a_return
+  - first:
+      74: 7263626991113241288
+    second: soldier01a_return_end
+  - first:
+      74: -1458203918122210828
+    second: soldier01a_return_start
+  - first:
+      74: 4361660844982087637
+    second: soldier01a_hurt
+  - first:
+      74: -764357714879098524
+    second: soldier01a_die
+  - first:
+      74: 7156680214973047763
+    second: soldier01a_getup
+  - first:
+      74: 8678635020856533612
+    second: soldier01a_fall
+  - first:
+      74: -3160206104364756645
+    second: soldier01a_float
+  - first:
+      74: 935279225129837556
+    second: soldier01a_floatidle
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

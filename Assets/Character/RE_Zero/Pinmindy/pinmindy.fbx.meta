@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 28a71ec1c22712642a46401402801509
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1096529434612160644
+    second: pinminDY_idle
+  - first:
+      74: 1668307451711584332
+    second: pinminDY_die
+  - first:
+      74: 8261002537279479679
+    second: pinminDY_down
+  - first:
+      74: -5063019680522999221
+    second: pinminDY_downhurt
+  - first:
+      74: 1808042901109382115
+    second: pinminDY_downidle
+  - first:
+      74: 6542754777332919595
+    second: pinminDY_stun
+  - first:
+      74: 2550374406886006871
+    second: pinminDY_getup
+  - first:
+      74: -7285687904528968875
+    second: pinminDY_hurt
+  - first:
+      74: -1771564012465758279
+    second: pinminDY_float
+  - first:
+      74: -803550103589763067
+    second: pinminDY_floatidle
+  - first:
+      74: -4575856223756445508
+    second: pinminDY_fall
+  - first:
+      74: -6188971732826030826
+    second: pinminDY_return
+  - first:
+      74: -3341929985251513959
+    second: pinminDY_return_end
+  - first:
+      74: 7086628574165550638
+    second: pinminDY_return_start
+  - first:
+      74: -830461537102418839
+    second: pinminDY_skill1_start
+  - first:
+      74: -3055024870566129868
+    second: pinminDY_skill1_move
+  - first:
+      74: 2003596578998875896
+    second: pinminDY_skill1_attack
+  - first:
+      74: -4632982510565743049
+    second: pinminDY_skill2_attack
+  - first:
+      74: 896977044784778250
+    second: pinminDY_skill2_move
+  - first:
+      74: 6890672137476726578
+    second: pinminDY_skill2_start
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

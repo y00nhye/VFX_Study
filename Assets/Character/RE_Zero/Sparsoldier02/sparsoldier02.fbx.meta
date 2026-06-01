@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 64da692a28fafe94b863b9ad1197cf56
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 4615893879189474244
+    second: sparsoldier02_idle
+  - first:
+      74: 3539520189472650195
+    second: sparsoldier02_hurt
+  - first:
+      74: -4743504490207323155
+    second: sparsoldier02_getup
+  - first:
+      74: 1181027985537193579
+    second: sparsoldier02_die
+  - first:
+      74: 6633044266471268753
+    second: sparsoldier02_stun
+  - first:
+      74: 2892158947027475674
+    second: sparsoldier02_floatidle
+  - first:
+      74: 8485145685909428558
+    second: sparsoldier02_float
+  - first:
+      74: 4755660345948791374
+    second: sparsoldier02_fall
+  - first:
+      74: -7210536802141977789
+    second: sparsoldier02_downhurt
+  - first:
+      74: -2080378424446969835
+    second: sparsoldier02_downidle
+  - first:
+      74: -3500483413108658272
+    second: sparsoldier02_down
+  - first:
+      74: -4901640333689586967
+    second: sparsoldier02_skill1_attack
+  - first:
+      74: -5134609707860922013
+    second: sparsoldier02_skill1_start
+  - first:
+      74: -5419173789926676293
+    second: sparsoldier02_skill1_move
+  - first:
+      74: 1010867184459303092
+    second: sparsoldier02_skill2_attack
+  - first:
+      74: -188475253618717565
+    second: sparsoldier02_skill2_move
+  - first:
+      74: -5340031718283645517
+    second: sparsoldier02_skill2_start
+  - first:
+      74: -7565719569190185394
+    second: sparsoldier02_return
+  - first:
+      74: -3208952785955954382
+    second: sparsoldier02_return_end
+  - first:
+      74: 2627465015717769527
+    second: sparsoldier02_return_start
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

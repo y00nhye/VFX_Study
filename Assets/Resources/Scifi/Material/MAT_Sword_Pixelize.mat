@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MAT_Sword_Pixelize
+  m_Shader: {fileID: 4800000, guid: 33432b016ba30174aa76893e2994ada5, type: 3}
+  m_ShaderKeywords: _USE_COSTOM_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Dissolve_Texture:
+        m_Texture: {fileID: 2800000, guid: e3c24bd69ca2d4a42933ef11dbb112c5, type: 3}
+        m_Scale: {x: 2, y: 1}
+        m_Offset: {x: 0.07, y: 0}
+    - _FXT_Sword:
+        m_Texture: {fileID: 2800000, guid: de0bf55fa531d894bbd7d4bd36e55df7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 3, y: 1.5}
+        m_Offset: {x: 0.5, y: 0.3}
+    - _Noise_Texture:
+        m_Texture: {fileID: 2800000, guid: 82d7a1f26ef85f048b76b9dcc08c906b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sword_Texture:
+        m_Texture: {fileID: 2800000, guid: 2f880d58b00f8854ba2d911f5462cbda, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex4coord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _tex4coord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Dissolve: 0.83
+    - _Dissolve_UPanner: 0.1
+    - _Dissolve_VPanner: 0.1
+    - _Edge_Range: 0
+    - _Edge_Range_Ins: 4.62
+    - _Edge_Range_Pow: 2.5
+    - _Emi_Ins: 1
+    - _Emi_Offset: -0.47
+    - _Float2: 0
+    - _Float3: 1
+    - _Main_Ins: 1
+    - _Main_Pow: 1
+    - _Main_UPanner: 0
+    - _Main_VPanner: 0
+    - _Mask_Range: 2
+    - _Noise_UPanner: 0
+    - _Noise_VPanner: 0
+    - _Noise_str: 0
+    - _Opacity: 1
+    - _Sword_UOffset: -0.16
+    - _Sword_VOffset: 0
+    - _USE_COSTOM: 1
+    - __dirty: 0
+    m_Colors:
+    - _Edge_Color: {r: 0.7993579, g: 0, b: 1, a: 0}
+    - _Emi_Color: {r: 5.992157, g: 0.84705883, b: 5.1764708, a: 0}
+    - _Emi_Ins: {r: 0, g: 0, b: 0, a: 0}
+    - _Main_Color: {r: 0.13378276, g: 0.54150164, b: 1.216786, a: 0}
+  m_BuildTextureStacks: []

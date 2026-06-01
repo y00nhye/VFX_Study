@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: e84ef5baa490620478ee1ec73667b254
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: -1996288321601471652
+    second: sparsoldier03_idle
+  - first:
+      74: 5027427028828901670
+    second: sparsoldier03_return_end
+  - first:
+      74: -2806704419803246511
+    second: sparsoldier03_return
+  - first:
+      74: 7927928788011328848
+    second: sparsoldier03_return_start
+  - first:
+      74: 6710329896808611554
+    second: sparsoldier03_hurt
+  - first:
+      74: -1871432529607156045
+    second: sparsoldier03_getup
+  - first:
+      74: 2582062317928063013
+    second: sparsoldier03_die
+  - first:
+      74: 3252037275688318887
+    second: sparsoldier03_stun
+  - first:
+      74: 3157599110186662065
+    second: sparsoldier03_down
+  - first:
+      74: -6474116545990097626
+    second: sparsoldier03_downidle
+  - first:
+      74: -1954329609021494443
+    second: sparsoldier03_downhurt
+  - first:
+      74: -7447662614386226447
+    second: sparsoldier03_fall
+  - first:
+      74: 8114599694398369796
+    second: sparsoldier03_floatidle
+  - first:
+      74: -1710896908211269236
+    second: sparsoldier03_float
+  - first:
+      74: -1958241939252596828
+    second: sparsoldier03_skill1_attack
+  - first:
+      74: 9080996408601967434
+    second: sparsoldier03_skill2_attack
+  - first:
+      74: 3973441424667098972
+    second: sparsoldier03_skill2_move
+  - first:
+      74: 2524344330864992125
+    second: sparsoldier03_skill2_start
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

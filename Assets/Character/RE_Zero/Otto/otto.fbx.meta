@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 77d5db7ab79b1614c945a7396556b3b3
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 361019968753906952
+    second: otto_skill2_attack
+  - first:
+      74: 8506256248450764175
+    second: otto_skill3_attack
+  - first:
+      74: -1201718974062935793
+    second: otto_idle
+  - first:
+      74: 3904244754599860548
+    second: otto_enter
+  - first:
+      74: 7659426344726206265
+    second: otto_skill1_attack
+  - first:
+      74: -8159943462087642927
+    second: otto_skill1_move
+  - first:
+      74: 3341028319142459027
+    second: otto_skill1_start
+  - first:
+      74: -2128582161054470322
+    second: otto_hurt
+  - first:
+      74: 7152392321771358985
+    second: otto_getup
+  - first:
+      74: 6699823170463442626
+    second: otto_die
+  - first:
+      74: 5581632828708310504
+    second: otto_stun
+  - first:
+      74: 5453127595793547287
+    second: otto_float
+  - first:
+      74: 2535971653599207659
+    second: otto_floatidle
+  - first:
+      74: -8085415837691851412
+    second: otto_fall
+  - first:
+      74: -6358291562056026030
+    second: otto_down
+  - first:
+      74: -3463503592452894911
+    second: otto_downhurt
+  - first:
+      74: -6140193051598677144
+    second: otto_downidle
+  - first:
+      74: -861704343318822272
+    second: otto_return
+  - first:
+      74: -3687405782931940643
+    second: otto_return_end
+  - first:
+      74: -2459945382782111246
+    second: otto_return_start
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
